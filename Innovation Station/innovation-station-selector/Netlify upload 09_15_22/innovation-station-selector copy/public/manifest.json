@@ -1,0 +1,20 @@
+{
+  "short_name": "JACS Solutions Innovation Station",
+  "name": "JACS Solutions Innovation Station",
+  "icons": [
+    {
+      "src": "jacs-logo.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "jacs-logo.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
